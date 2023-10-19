@@ -1,2 +1,1 @@
-# clovis-lap-app-scan
-lab default app scan
+# clovis-class-apps
